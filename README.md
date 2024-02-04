@@ -23,7 +23,7 @@
 ### Github 𝐒𝐭𝐚𝐭𝐮𝐬
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NOOR-EH&show_icons=true&theme=radical)<br>
 #
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=NOOR-EH &layout=compact&theme=chartreuse-dark" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MohsinTheLegend&layout=compact&theme=chartreuse-dark" />
 
 <p align="center">
 <a href="https://github.com/NOOR-EH/MBF"><img title="MBF" src="https://github-readme-stats.vercel.app/api/pin/?username=NOOR-EH&repo=MBF&theme=vision-friendly-dark"></a>
