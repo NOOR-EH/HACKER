@@ -51,7 +51,7 @@
 </p>  
 <p align="center"> 
  𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
- <img src="https://profile-counter.glitch.me/HACKERIHSAN/count.svg" />
+ <img src="https://profile-counter.glitch.me/NOOR-EH/count.svg" />
 </p>
 
 #### contact me
@@ -61,5 +61,5 @@
 #
 ![images ()](https://user-images.githubusercontent.com/79760783/142288494-ad27efef-b287-4eb1-b585-0ffba59895e1.jpeg)
 
-<img src="https://github.com/ROMI-AFRZL/ROMI-AFRZL/blob/main/Ngentod/status_me_status_90e259db678545f49a41faf12e095d58.jpg" width="640" title="Menu" alt="Menu">
+<img src="https://github.com/ROMI-AFRZL/ROMIAFRZL/blob/main/Ngentod/status_me_status_90e259db678545f49a41faf12e095d58.jpg" width="640" title="Menu" alt="Menu">
  
