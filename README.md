@@ -21,7 +21,7 @@
 [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=night)](https://wa.me/994401850?text=Asalamualaikum+Bro) <br><br>
 #
 ### Github 𝐒𝐭𝐚𝐭𝐮𝐬
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MR NOOR&show_icons=true&theme=radical)<br>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NOOR-EH&show_icons=true&theme=radical)<br>
 #
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MrNoor&layout=compact&theme=chartreuse-dark" />
 
